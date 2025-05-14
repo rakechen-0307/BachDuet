@@ -1,0 +1,9 @@
+PyQt5==5.12.3
+torch==2.4.0
+python-rtmidi
+pyqtgraph==0.12.3
+music21
+numpy
+scipy
+matplotlib
+omegaconf
